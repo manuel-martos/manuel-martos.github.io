@@ -3,6 +3,10 @@
     height: 100vh;
 }
 
+body {
+    margin: 0;
+}
+
 #root > .compose-web-column > div {
     position: relative;
 }
